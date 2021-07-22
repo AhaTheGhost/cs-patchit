@@ -1,0 +1,8 @@
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\bin\Release\netstandard2.0\PatchIt.deps.json
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\bin\Release\netstandard2.0\PatchIt.dll
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\bin\Release\netstandard2.0\PatchIt.pdb
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\obj\Release\netstandard2.0\PatchIt.csprojAssemblyReference.cache
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\obj\Release\netstandard2.0\PatchIt.AssemblyInfoInputs.cache
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\obj\Release\netstandard2.0\PatchIt.AssemblyInfo.cs
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\obj\Release\netstandard2.0\PatchIt.dll
+C:\Users\AhaTheGhost\source\repos\PatchIt\PatchIt\obj\Release\netstandard2.0\PatchIt.pdb
