@@ -1,4 +1,10 @@
-﻿using System;
+/**
+ * @author Ahmed F. Shark <ahmad360pro@gmail.com>
+ * @version 1.0.4
+ * @link https://github.com/AhaTheGhost/cs-patchit/
+ */
+
+using System;
 using System.Runtime.CompilerServices;
 
 namespace PatchIt
