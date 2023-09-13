@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PatchIt",
+    "\\PatchIt\\PatchIt",
+    "\\PatchIt\\PatchIt\\bin",
+    "\\PatchIt\\PatchIt\\bin\\Debug",
+    "\\PatchIt\\PatchIt\\bin\\Debug\\netstandard2.0"
+  ],
+  "SelectedNode": "\\PatchIt\\PatchIt.sln",
+  "PreviewInSolutionExplorer": false
+}

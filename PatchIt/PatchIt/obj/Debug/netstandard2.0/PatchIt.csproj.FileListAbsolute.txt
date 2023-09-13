@@ -1,0 +1,10 @@
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\bin\Debug\netstandard2.0\PatchIt.deps.json
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\bin\Debug\netstandard2.0\PatchIt.dll
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\bin\Debug\netstandard2.0\PatchIt.pdb
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\obj\Debug\netstandard2.0\PatchIt.csproj.AssemblyReference.cache
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\obj\Debug\netstandard2.0\PatchIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\obj\Debug\netstandard2.0\PatchIt.AssemblyInfoInputs.cache
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\obj\Debug\netstandard2.0\PatchIt.AssemblyInfo.cs
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\obj\Debug\netstandard2.0\PatchIt.csproj.CoreCompileInputs.cache
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\obj\Debug\netstandard2.0\PatchIt.dll
+C:\Users\AhaTheGhost\Source\Repos\AhaTheGhost\cs-patchit\PatchIt\PatchIt\obj\Debug\netstandard2.0\PatchIt.pdb
