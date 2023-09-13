@@ -62,9 +62,6 @@ if (patcher.GetLastLog() == "Success")
     byte[] patchedData = patcher.GetPatchedBinary();
 ```
 ---
-### What is CS PatchIt?
-It is a super easy library to edit binary files as to your need for.
-
 ### How to ...?
 Just simply by **_finding a set of values_** and **_replacing them with another set_**, essentially using **jagged arrays**.
 
