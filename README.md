@@ -1,5 +1,8 @@
 # PatchIt - BinaryPatcher
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AhaTheGhost/cs-patchit)
+![GitHub](https://img.shields.io/github/license/AhaTheGhost/cs-patchit)
+
 BinaryPatcher is a C# class library designed for patching binary data efficiently. This library allows you to find and replace specific binary sequences within a byte array. It's particularly useful for tasks like modifying binary files, applying patches, or customizing data structures.
 
 ## What's New in Version 1.1.0.0
