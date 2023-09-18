@@ -80,8 +80,7 @@ _Finally, use the method **GetPatchedData()** to write the new data to a variabl
 
 ### Simple test code review
 Lets assume we have the following code
-![Screenshot 2023-09-13 212616](https://github.com/AhaTheGhost/cs-patchit/assets/19475395/99e54ff2-c785-4b28-baa3-e6aab15d1b59)
-
+![Screenshot 2023-09-14 224745](https://github.com/AhaTheGhost/cs-patchit/assets/19475395/b29b5d6f-295b-4a59-92d2-58beac902d53)
 
 The above code will result us as the following,
 ![Screenshot 2021-07-22 075540](https://user-images.githubusercontent.com/19475395/126592087-5d941060-6739-435c-ba34-43985b58514d.png)
